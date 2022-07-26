@@ -17,5 +17,7 @@ git init
 
 git add file_name
 
+Для фиксации изменений испоьзутеся команда: 
 
+git commit -m "info about commit"
 
