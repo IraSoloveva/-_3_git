@@ -21,3 +21,4 @@ git add file_name
 
 git commit -m "info about commit"
 
+Команда git commit -a  используется для ускорения процесса и объединяет в себе функции двух команд (git add и git commit -m)
