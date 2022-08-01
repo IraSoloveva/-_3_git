@@ -46,4 +46,4 @@ git commit -m "info about commit"
 
 ### Переход с ветки на ветку
 
-
+Для перехода с одной ветки на другую используется команда *git checkout branch_name*
